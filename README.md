@@ -5,9 +5,9 @@
       sql 작성, Spring 환경 구축 (완료) <br>
       REST 이해 (진행) </p>
   <li>Spring</li>
-    <p>JDK, Tomcat, mybatis, eclipse 설치 <br>
-      sql 작성, Spring 환경 구축</p>
+    <p>~~<br>
+      ~~</p>
   <li>Spring Boot</li>
-    <p>JDK, Tomcat, mybatis, eclipse 설치 <br>
-      sql 작성, Spring 환경 구축</p>
+    <p>~~<br>
+      ~~</p>
 </ol>
