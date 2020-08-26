@@ -24,8 +24,10 @@ Spring Framework를 이용한 Restful Web Service 구축
 	  > Create (POST), Read (GET), Update (PUT), Delete (DELETE)<br>
 	- DAO, SERVICE, VO(DTO), Repository 차이점 (진행)<br>
 <br>
-      <b>힘들었던 점</b><br>
-      <br></p>
+      <b>Error</b><br>
+      - Tomcat 실행 시 500Error > 설치경로의 액세스권한 설정<br>
+	- root-context.xml 파일에서 context:component-scan 추가 시 발생하는 오류 수정<br> > beans에 경로 추가
+<br></p>
 
 </ol>
 <hr>
