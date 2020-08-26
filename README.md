@@ -18,13 +18,13 @@ Spring Framework를 이용한 Restful Web Service 구축
 	- 서버 실행 후 웹 페이지 구동 (완료)<br></p>
 
   <li>기타</li>
-    <p><h5>자료 조사 및 개념 이해</h5>
+    <p><b>자료 조사 및 개념 이해</b><br>
 	- REST (진행)<br>
 	- CRUD<br>
 	  > Create (POST), Read (GET), Update (PUT), Delete (DELETE)<br>
 	- DAO, SERVICE, VO(DTO), Repository 차이점 (진행)<br>
 <br>
-      <h5>힘들었던 점</h5>
+      <b>힘들었던 점</b><br>
       <br></p>
 
 </ol>
