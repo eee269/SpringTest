@@ -31,3 +31,31 @@ Spring Framework를 이용한 Restful Web Service 구축
 
 </ol>
 <hr>
+<h3>2주차</h3>
+<ol>
+  <li>HTTP / Restful API</li>
+    <p>- HTTP 통신에 대한 이해<br>
+      - Restful API 학습<br>
+	- JSON 학습<br>
+	- pathvariable 학습<br></p>
+
+  <li>Restful API 설계 작성</li>
+    <p>- 인터페이스 가이드 문서 작성 > 클라이언트 개발자와 협업하는 방법<br>
+      - 요청URL<br>
+- Request Parameters<br>
+- Reponse Body<br></p>
+      
+  <li>기타</li>
+    <p><b>어려웠던 점</b><br>
+	- API관련 경험 미흡<br>
+	- 초반 방향 설정의 어려움<br>
+	- 요청 파라미터를 통한 응답 유추 어려움<br>
+	- 설계한 API의 개선점 스스로 발견 어려움<br>
+<br>
+      <b>개선 방향</b><br>
+      - API 활용도 향상 > 프로젝트 수행 시 활발한 API 활용 (예정) <br>
+	- REST에 대한 이해도 향상 > https://tv.naver.com/v/2292653 시청 (예정)
+<br></p>
+
+</ol>
+<hr>
